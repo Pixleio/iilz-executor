@@ -37,3 +37,10 @@ p {
 	color: #888;
 	padding: 15px;
 }
+.btn-3 {
+	background: #3437ff;
+}
+
+.btn-3:hover:hover {
+	background: #5253a3;
+}
